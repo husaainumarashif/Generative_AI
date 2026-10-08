@@ -1,0 +1,22 @@
+BEFORE-AND-AFTER COMPARISON
+Prompt: The scientist opened the door and saw
+
+=== BASE GPT-2 (before) ===
+The scientist opened the door and saw her daughter holding a knife.
+
+"You can call us anything you want," she said, standing up, "but I'm not going anywhere. Go somewhere you can go. Call me Mom. We're here for you. That's it. Call us
+
+=== FINE-TUNED GPT-2 (after) ===
+The scientist opened the door and saw a face shining like a moon. A smile lingered upon his face.
+
+"What a wondrous name it is!" it called itself.
+
+
+Then it was done with a single bow.
+
+It never felt more like home.
+
+DIFFERENCES IN STYLE
+1. Word choice: The base model uses plain modern words (knife, I'm not going anywhere). The fine-tuned model uses poetic, old-style words (wondrous, lingered upon, shining like a moon).
+2. Mood: The base model is tense and dangerous (a knife, an argument). The fine-tuned model is calm and gentle (a smile, never felt more like home).
+3. Sentence style: The base model writes everyday speech. The fine-tuned model uses exclamations and short poetic lines like Shakespeare's plays.
